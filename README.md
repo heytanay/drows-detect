@@ -20,6 +20,8 @@ pip install scipy numpy matplotlib scikit-learn
 
 pip install opencv-contrib-python
 
+pip install imutils
+
 pip install dlib
 
 pip install playsound
